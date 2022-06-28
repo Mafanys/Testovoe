@@ -1,0 +1,11 @@
+.text{
+  text-align: center;
+  font-size: 50px;
+  color: blue;
+}
+.photo{
+  width: 240px;
+  height: 300px;
+  margin: 10px;
+  margin-left: 20px;
+}
